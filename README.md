@@ -1,1 +1,1 @@
-# auth-api-grocery-hub
+# node-service-template-grocery-hub
